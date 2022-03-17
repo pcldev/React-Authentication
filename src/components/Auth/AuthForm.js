@@ -1,7 +1,7 @@
 import { useState, useRef } from "react";
 //import { FacebookAuthProvider } from "firebase/auth";
 import classes from "./AuthForm.module.css";
-import { useEffect, useContext } from "react";
+import { useContext } from "react";
 import { useHistory } from "react-router-dom";
 import StyledFirebaseAuth from "react-firebaseui/StyledFirebaseAuth";
 //import { uiConfig } from "./firebase-config";
